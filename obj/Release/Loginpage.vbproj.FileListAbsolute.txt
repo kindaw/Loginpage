@@ -1,0 +1,5 @@
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Release\Loginpage.vbproj.AssemblyReference.cache
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Release\Loginpage.Form1.resources
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Release\Loginpage.Resources.resources
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Release\Loginpage.vbproj.GenerateResource.cache
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Release\Loginpage.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.vbproj.AssemblyReference.cache
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.Form1.resources
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.Resources.resources
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.vbproj.GenerateResource.cache
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.vbproj.CoreCompileInputs.cache
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\bin\Debug\Loginpage.exe.config
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\bin\Debug\Loginpage.exe
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\bin\Debug\Loginpage.pdb
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\bin\Debug\Loginpage.xml
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.exe
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.xml
+D:\work\Code\p3\vsbasic\Loginpage\Loginpage\obj\Debug\Loginpage.pdb
