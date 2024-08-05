@@ -22,7 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.CheckBox_Showpassword = New System.Windows.Forms.CheckBox()
+        Me.chk_Showpassword = New System.Windows.Forms.CheckBox()
         Me.btb_Login = New System.Windows.Forms.Button()
         Me.lbl_Usernam = New System.Windows.Forms.Label()
         Me.lbl_Password = New System.Windows.Forms.Label()
@@ -32,16 +32,16 @@ Partial Class Form1
         Me.lbl_WelcomeBack = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'CheckBox_Showpassword
+        'chk_Showpassword
         '
-        Me.CheckBox_Showpassword.AutoSize = True
-        Me.CheckBox_Showpassword.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox_Showpassword.Location = New System.Drawing.Point(85, 259)
-        Me.CheckBox_Showpassword.Name = "CheckBox_Showpassword"
-        Me.CheckBox_Showpassword.Size = New System.Drawing.Size(136, 22)
-        Me.CheckBox_Showpassword.TabIndex = 0
-        Me.CheckBox_Showpassword.Text = "Show Password"
-        Me.CheckBox_Showpassword.UseVisualStyleBackColor = True
+        Me.chk_Showpassword.AutoSize = True
+        Me.chk_Showpassword.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.chk_Showpassword.Location = New System.Drawing.Point(85, 259)
+        Me.chk_Showpassword.Name = "chk_Showpassword"
+        Me.chk_Showpassword.Size = New System.Drawing.Size(136, 22)
+        Me.chk_Showpassword.TabIndex = 0
+        Me.chk_Showpassword.Text = "Show Password"
+        Me.chk_Showpassword.UseVisualStyleBackColor = True
         '
         'btb_Login
         '
@@ -83,7 +83,6 @@ Partial Class Form1
         Me.txt_Username.Name = "txt_Username"
         Me.txt_Username.Size = New System.Drawing.Size(279, 35)
         Me.txt_Username.TabIndex = 4
-        Me.txt_Username.Text = "enter you username"
         '
         'txt_Password
         '
@@ -93,7 +92,6 @@ Partial Class Form1
         Me.txt_Password.Name = "txt_Password"
         Me.txt_Password.Size = New System.Drawing.Size(279, 35)
         Me.txt_Password.TabIndex = 5
-        Me.txt_Password.Text = "enter you password"
         Me.txt_Password.UseSystemPasswordChar = True
         '
         'lbl_Login
@@ -129,7 +127,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lbl_Password)
         Me.Controls.Add(Me.lbl_Usernam)
         Me.Controls.Add(Me.btb_Login)
-        Me.Controls.Add(Me.CheckBox_Showpassword)
+        Me.Controls.Add(Me.chk_Showpassword)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -137,7 +135,7 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents CheckBox_Showpassword As CheckBox
+    Friend WithEvents chk_Showpassword As CheckBox
     Friend WithEvents btb_Login As Button
     Friend WithEvents lbl_Usernam As Label
     Friend WithEvents lbl_Password As Label

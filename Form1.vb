@@ -11,11 +11,11 @@
     End Function
 
     Private Sub txt_Username_TextChanged(sender As Object, e As EventArgs) Handles txt_Username.GotFocus
-        txt_Username.Text = ""
+
     End Sub
 
     Private Sub txt_Password_Enter(sender As Object, e As EventArgs) Handles txt_Password.GotFocus
-        txt_Password.Text = ""
+
     End Sub
 
     Private Sub btb_Login_Click(sender As Object, e As EventArgs) Handles btb_Login.Click
@@ -28,8 +28,7 @@
         End If
     End Sub
 
-    Private Sub CheckBox_Showpassword_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox_Showpassword.CheckedChanged
-
+    Private Sub chk_Showpassword_CheckedChanged(sender As Object, e As EventArgs) Handles chk_Showpassword.CheckedChanged
+        txt_Password.UseSystemPasswordChar = Not chk_Showpassword.Checked
     End Sub
-
 End Class
